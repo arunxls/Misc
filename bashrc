@@ -32,6 +32,7 @@
 #   Set Default Editor (change 'Nano' to the editor of your choice)
 #   ------------------------------------------------------------
     export EDITOR="/Applications/Sublime\ Text.app/Contents/MacOS/Sublime\ Text &"
+    export EDITOR="vi"
 
 #   Set default blocksize for ls, df, du
 #   from this: http://hints.macworld.com/comment.php?mode=view&cid=24491
